@@ -9,10 +9,11 @@ All analyses are performed in a reproducible manner using text-based Unix comman
 
 ---
 
-## Organism
-**Organism name:** TBD  
+## Organism name: Drosophila melanogaster (fruit fly)
 
-Brief description of the organism (taxonomy, common name, and why it is biologically interesting).
+Drosophila melanogaster is a well-established eukaryotic model organism commonly known as the fruit fly.
+It has been extensively used in genetics, developmental biology, and functional genomics.
+Its genome is relatively compact and well-annotated, making it suitable for practicing genomic annotation analysis using Unix-based workflows.
 
 ---
 
