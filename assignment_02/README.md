@@ -28,3 +28,14 @@ https://ftp.ensembl.org/pub/current_gff3/drosophila_melanogaster/
 
 ## Methods
 All analyses were conducted using Unix com
+
+---
+
+## Sequence regions
+
+The GFF3 file contains a total of 1870 sequence regions as defined by the `##sequence-region` entries.
+
+Only a small subset of these correspond to the major chromosomes of Drosophila melanogaster (2L, 2R, 3L, 3R, X, Y, and chromosome 4).
+The remaining sequence regions represent unmapped scaffolds, minor contigs, mitochondrial genome, and other assembled sequences.
+
+This is consistent with expectations for a complex eukaryotic genome assembly, where many additional scaffolds are present beyond the primary chromosomes.
