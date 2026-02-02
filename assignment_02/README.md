@@ -18,12 +18,11 @@ Its genome is relatively compact and well-annotated, making it suitable for prac
 ---
 
 ## Data Source
-The GFF3 annotation file was obtained from the Ensembl public FTP site:
 
-https://ftp.ensembl.org/pub/current_gff3/
-
-The data file itself is not included in this repository.  
-Only the commands used to download and analyze the data are documented below.
+The GFF3 file used for this analysis was:
+Drosophila_melanogaster.BDGP6.54.115.gff3.gz
+obtained from the Ensembl public FTP site under:
+https://ftp.ensembl.org/pub/current_gff3/drosophila_melanogaster/
 
 ---
 
